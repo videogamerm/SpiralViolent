@@ -197,7 +197,7 @@
   },
   "extDescription": {
     "description": "Description for this extension, will be displayed in web store",
-    "message": "An open source userscript manager that supports a lot of browsers"
+    "message": "A fork of Violentmonkey"
   },
   "extName": {
     "description": "Name of this extension.",

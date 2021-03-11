@@ -1,63 +1,63 @@
 {
   "buttonCancel": {
     "description": "Cancel button on dialog.",
-    "message": "Cancel"
+    "message": "Anuluj"
   },
   "buttonClose": {
-    "description": "Uttonbay otay oseclay indowway.",
-    "message": "Close"
+    "description": "Button to close window.",
+    "message": "Zamknij"
   },
   "buttonConfirmInstallation": {
     "description": "Button to confirm installation of a script.",
-    "message": "Confirm installation"
+    "message": "Potwierdź instalację"
   },
   "buttonDisable": {
     "description": "Button to disable a script.",
-    "message": "Disable"
+    "message": "Wyłącz"
   },
   "buttonEdit": {
     "description": "Button to edit a script.",
-    "message": "Edit"
+    "message": "Edytuj"
   },
   "buttonEditClickHint": {
     "description": "Tooltip for the Edit button in popup.",
-    "message": "You can also Right-click, Ctrl-click, Wheel-click on the script name."
+    "message": "Możesz także kliknąć prawym przyciskiem myszy, z Ctrl, kółkiem myszy na nazwie skryptu."
   },
   "buttonEmptyRecycleBin": {
     "description": "Button to empty the recycle bin.",
-    "message": "Empty recycle bin now!"
+    "message": "Opróżnij kosz teraz!"
   },
   "buttonEnable": {
     "description": "Button to enable a script.",
-    "message": "Enable"
+    "message": "Włącz"
   },
   "buttonExportData": {
     "description": "Button to open the data export dialog.",
-    "message": "Export to zip"
+    "message": "Eksportuj do pliku \".zip\""
   },
   "buttonFilter": {
     "description": "Button to show filters menu.",
-    "message": "Filters"
+    "message": "Filtry"
   },
   "buttonHome": {
     "description": "Button to open homepage.",
-    "message": "Homepage"
+    "message": "Strona główna"
   },
   "buttonImportData": {
     "description": "Button to choose a file for data import.",
-    "message": "Import from zip"
+    "message": "Importuj z pliku \".zip\""
   },
   "buttonInstallFromURL": {
     "description": "Button to ask for URL of a user script.",
-    "message": "Install from URL"
+    "message": "Zainstaluj z adresu URL"
   },
   "buttonInstallOptions": {
     "description": "Button to show options of installation confirm page.",
-    "message": "Options"
+    "message": "Opcje"
   },
   "buttonNew": {
     "description": "Button to create a new script.",
-    "message": "New"
+    "message": "Nowy skrypt"
   },
   "buttonOK": {
     "description": "OK button on dialog.",
@@ -65,730 +65,730 @@
   },
   "buttonRecycleBin": {
     "description": "Button to list scripts in recycle bin.",
-    "message": "Recycle Bin"
+    "message": "Kosz"
   },
   "buttonRemove": {
     "description": "Button to remove a script.",
-    "message": "Remove"
+    "message": "Usuń"
   },
   "buttonReplace": {
     "description": "Button to replace the current match.",
-    "message": "Replace"
+    "message": "Zamień"
   },
   "buttonReplaceAll": {
     "description": "Button to replace all matches.",
-    "message": "All"
+    "message": "Wszystko"
   },
   "buttonReset": {
     "description": "Button to reset to default values.",
-    "message": "Reset"
+    "message": "Zresetuj"
   },
   "buttonRestore": {
     "description": "Button to restore a removed script.",
-    "message": "Restore"
+    "message": "Przywróć"
   },
   "buttonSave": {
     "description": "Button to save modifications of a script.",
-    "message": "Save"
+    "message": "Zapisz"
   },
   "buttonSaveClose": {
     "description": "Button to save modifications of a script and then close the editing page.",
-    "message": "Save & Close"
+    "message": "Zapisz i zamknij"
   },
   "buttonShowEditorState": {
     "description": "Button to show the list of currently used CodeMirror options.",
-    "message": "Show editor state"
+    "message": "Pokaż określenia edytora"
   },
   "buttonSupport": {
     "description": "Button to open support page.",
-    "message": "Support page"
+    "message": "Strona wsparcia technicznego"
   },
   "buttonUpdate": {
     "description": "Check a script for updates.",
-    "message": "Check for updates"
+    "message": "Sprawdź dostępność aktualizacji"
   },
   "buttonUpdateAll": {
     "description": "Check all scripts for updates.",
-    "message": "Check all for updates"
+    "message": "Sprawdź aktualizacje dla wszystkich skryptów"
   },
   "buttonVacuum": {
     "description": "Button to vacuum extension data.",
-    "message": "Vacuum database"
+    "message": "Wyczyść bazę danych"
   },
   "buttonVacuumed": {
     "description": "Message shown when data is vacuumed.",
-    "message": "Data vacuumed"
+    "message": "Dane wyczyszczone"
   },
   "buttonVacuuming": {
     "description": "Message shown when data vacuum is in progress.",
-    "message": "Vacuuming data..."
+    "message": "Czyszczenie danych..."
   },
   "confirmNotSaved": {
     "description": "Confirm message shown when there are unsaved script modifications.",
-    "message": "Modifications are not saved!\nClick OK to discard them or cancel to stay."
+    "message": "Zmiany nie zostały zapisane!\nKliknij \"OK\", aby je porzucić lub \"Anuluj\", aby je zostawić."
   },
   "descBlacklist": {
     "description": "HTML Description for the global blacklist.",
-    "message": "URL matched in this list will not be injected by scripts."
+    "message": "Adresy URL, które są na tej liście, nie zostaną dołączone do skryptów."
   },
   "descCustomCSS": {
     "description": "Description of custom CSS section.",
-    "message": "Custom CSS for options page and script installation page. If you are not sure what this is for, please do not edit it."
+    "message": "Niestandardowy CSS dla stron z opcjami i instalacją skryptu. Jeśli nie jesteś pewien/pewna co to jest, to nie edytuj tego."
   },
   "descEditorOptions": {
     "description": "Description of editor options JSON section.",
-    "message": "Custom options for CodeMirror and addons in JSON object like <code>{\"indentUnit\":2, \"smartIndent\":true}</code> however note that some of them may not work in SpiralViolent. See <a href=\"https://codemirror.net/doc/manual.html#config\" target=\"_blank\" rel=\"noopener noreferrer\">full list</a>. To use a custom CodeMirror theme, specify its file name like <code>\"theme\": \"3024-day\"</code> here and paste the <a href=\"https://github.com/codemirror/CodeMirror/tree/master/theme\" target=\"_blank\" rel=\"noopener noreferrer\">actual theme's CSS</a> in \"Custom Style\" input below."
+    "message": "Niestandardowe opcje CodeMirror i dodatków w obiekcie JSON, takie jak <code>{\"indentUnit\":2, \"smartIndent\":true}</code>, należy jednak pamiętać, że niektóre z nich mogą nie działać w Violentmonkey. Zobacz <a href=\"https://codemirror.net/doc/manual.html#config\" target=\"_blank\" rel=\"noopener noreferrer\">pełną listę</a>. Aby użyć niestandardowego motywu CodeMirror, podaj tutaj jego nazwę pliku, np. <code>\"theme\": \"3024-day\"</code> i wklej poniżej<a href=\"https://github.com/codemirror/CodeMirror/tree/master/theme\" target=\"_blank\" rel=\"noopener noreferrer\">CSS aktualnego motywu</a> w polu \"Styl niestandardowy\"."
   },
   "editHelpDocumention": {
     "description": "Label in the editor help tab for the documentation link.",
-    "message": "Documentation on userscript metadata block and <code>GM</code> API:"
+    "message": "Dokumentacja dotycząca bloku metadanych skryptu użytkownika i API <code>GM</code>:"
   },
   "editHelpKeyboard": {
     "description": "Label in the editor help tab for the keyboard shortcuts.",
-    "message": "Keyboard shortcuts:"
+    "message": "Skróty klawiaturowe:"
   },
   "editHowToHint": {
     "description": "The text of the how-to link in the editor header.",
-    "message": "Use another editor?"
+    "message": "Użycie innego edytora?"
   },
   "editLabelMeta": {
     "description": "Metadata section in settings tab of script editor.",
-    "message": "Custom metadata"
+    "message": "Niestandardowe metadane"
   },
   "editLabelSettings": {
     "description": "Settings section in settings tab of script editor.",
-    "message": "Script settings"
+    "message": "Ustawienia skryptu"
   },
   "editLongLine": {
     "description": "Shown in the editor in lines that were cut due to being too long",
-    "message": "Line is too long"
+    "message": "Linia jest za długa"
   },
   "editLongLineTooltip": {
     "description": "Tooltip shown in the editor in lines that were cut due to being too long",
-    "message": "This line is too long so its text is collapsed to avoid delays when editing.\nYou can adjust the limit in advanced settings, for example:\n\"maxDisplayLength\": 20000"
+    "message": "Ta linia jest zbyt długa, więc jej tekst jest zwinięty, aby uniknąć opóźnień podczas edycji.\nMożesz dostosować limit w ustawieniach zaawansowanych, np.:\n\"maxDisplayLength\": 20000"
   },
   "editNavCode": {
     "description": "Label of code tab in script editor.",
-    "message": "Code"
+    "message": "Kod"
   },
   "editNavSettings": {
     "description": "Label of settings tab in script editor.",
-    "message": "Settings"
+    "message": "Ustawienia"
   },
   "editNavValues": {
     "description": "Label of values tab in script editor.",
-    "message": "Values"
+    "message": "Wartości"
   },
   "editValueAll": {
     "description": "Button to show/edit the entire script value storage.",
-    "message": "All"
+    "message": "Wszystko"
   },
   "editValueAllHint": {
     "description": "Tooltip for the 'all' button.",
-    "message": "Show/edit the entire script value storage"
+    "message": "Pokaż/edytuj całą pamięć wartości skryptu"
   },
   "editValueCancel": {
     "description": "Button to cancel modification of a script value.",
-    "message": "Cancel"
+    "message": "Anuluj"
   },
   "editValueSave": {
     "description": "Button to save modification of a script value.",
-    "message": "Save"
+    "message": "Zapisz"
   },
   "extDescription": {
     "description": "Description for this extension, will be displayed in web store",
-    "message": "An open source userscript manager that supports a lot of browsers"
+    "message": "Menedżer skryptów użytkownika o otwartym kodzie źródłowym, który  obsługuje wiele przeglądarek."
   },
   "extName": {
     "description": "Name of this extension.",
-    "message": "SpiralViolent"
+    "message": "Violentmonkey"
   },
   "failureReasonBlacklisted": {
     "description": "Shown for blacklisted URLs (in the extension icon tooltip, in the popup)",
-    "message": "Blacklisted in SpiralViolent's settings"
+    "message": " Zablokowano w czarnej liście w ustawieniach Violentmonkey'a"
   },
   "failureReasonNoninjectable": {
     "description": "Shown for URLs that cannot be processed (same places as failureBlacklistedUrl)",
-    "message": "SpiralViolent cannot run userscripts in this page\n(common examples: browser UI or an extension)"
+    "message": "Violentmonkey nie może uruchomić skryptów użytkownika na tej stronie\n(możliwe przykłady: interfejs przeglądarki lub rozszerzenia)"
   },
   "filterAlphabeticalOrder": {
     "description": "Label for option to sort scripts in alphabetical order.",
-    "message": "alphabetical order"
+    "message": "kolejności alfabetycznej"
   },
   "filterExecutionOrder": {
     "description": "Label for option to sort scripts in execution order.",
-    "message": "execution order"
+    "message": "kolejności wykonywania"
   },
   "filterLastUpdateOrder": {
     "description": "Label for option to sort scripts by last update time.",
-    "message": "last update time"
+    "message": "czasu ostatniej aktualizacji"
   },
   "filterScopeAll": {
     "description": "Option in dashboard's search scope filter.",
-    "message": "All"
+    "message": "Wszędzie"
   },
   "filterScopeCode": {
     "description": "Option in dashboard's search scope filter.",
-    "message": "Code"
+    "message": "Kod"
   },
   "filterScopeName": {
     "description": "Option in dashboard's search scope filter.",
-    "message": "Name"
+    "message": "Nazwa"
   },
   "genericError": {
     "description": "Label for generic error.",
-    "message": "Error"
+    "message": "Błąd"
   },
   "genericOff": {
     "description": "To indicate something is turned off or disabled, similar to \"no\".",
-    "message": "off"
+    "message": "wył"
   },
   "genericOn": {
     "description": "To indicate something is turned on or enabled, similar to \"yes\".",
-    "message": "on"
+    "message": "wł"
   },
   "genericUseGlobal": {
     "description": "To indicate some per-script option will use its analog in global settings.",
-    "message": "use global setting"
+    "message": "użyj globalnych ustawień"
   },
   "headerRecycleBin": {
     "description": "Text shown in the header when scripts in recycle bin are listed.",
-    "message": "Recycle Bin"
+    "message": "Kosz"
   },
   "hintInputURL": {
     "description": "Hint for a prompt box to input URL of a user script.",
-    "message": "Input URL:"
+    "message": "Wprowadź adres URL:"
   },
   "hintRecycleBin": {
     "description": "Hint for recycle bin.",
-    "message": "Scripts removed are listed here and will be kept for 7 days."
+    "message": "Usunięte skrypty są wymienione tutaj i będą przechowywane przez 7 dni."
   },
   "hintUseDownloadURL": {
     "description": "Shown as a place holder for @updateURL when it is not assigned",
-    "message": "Use @downloadURL"
+    "message": "Użyj @downloadURL"
   },
   "hintVacuum": {
     "description": "Hint for vacuuming data.",
-    "message": "Discard the redundancy and try to reload the missing resources in cache."
+    "message": "Usuń nadmiarowość i spróbuj przeładować brakujące zasoby w pamięci podręcznej."
   },
   "installFrom": {
     "description": "Label for button to install script from a userscript site.",
-    "message": "Install from $1"
+    "message": "Zainstaluj z $1"
   },
   "installOptionClose": {
     "description": "Option to close confirm window after installation.",
-    "message": "Close after installation"
+    "message": "Zamknij po zakończeniu instalacji"
   },
   "installOptionTrack": {
     "description": "Option to track the loading local file before window is closed.",
-    "message": "Track local file before this window is closed"
+    "message": "Śledź plik lokalny przed zamknięciem tego okna"
   },
   "installOptionTrackTooltip": {
     "description": "Tooltip in Firefox 68+ for the option to track the loading local file before window is closed.",
-    "message": "The source file tab should be kept open in Firefox 68 and newer."
+    "message": "Karta z podglądem źródła powinna pozostać otwarta przy korzystaniu z Firefoksa w wersjach 68 i nowszych."
   },
   "labelAbout": {
     "description": "Label shown on top of the about page.",
-    "message": "About SpiralViolent"
+    "message": "O rozszerzeniu Violentmonkey"
   },
   "labelAdvanced": {
     "description": "Label for button to show advanced settings.",
-    "message": "Advanced"
+    "message": "Zaawansowane"
   },
   "labelAllowUpdate": {
     "description": "Option to allow checking updates for a script.",
-    "message": "Allow update"
+    "message": "Zezwalaj na aktualizację"
   },
   "labelAuthor": {
     "description": "Label of author shown in the details of a script.",
-    "message": "Author: "
+    "message": "Autor: "
   },
   "labelAutoReloadCurrentTab": {
     "description": "Option to reload current tab after a script is switched on or off from menu.",
-    "message": "Reload current tab after switching on/off a script from menu"
+    "message": "Odświeżaj bieżącą kartę po włączeniu/wyłączeniu skryptu z menu"
   },
   "labelAutoUpdate": {
     "description": "Option to allow automatically checking scripts for updates",
-    "message": "Check for script updates every $1 day(s), use 0 to disable"
+    "message": "Sprawdzaj aktualizacje skryptów co  $1 dni, użyj 0 aby wyłączyć"
   },
   "labelBadge": {
     "description": "Label for option to show number on badge.",
-    "message": "Display on badge: "
+    "message": "Wyświetl na plakietce: "
   },
   "labelBadgeNone": {
     "description": "Option to display nothing on badge.",
-    "message": "none"
+    "message": "nic"
   },
   "labelBadgeTotal": {
     "description": "Option to display total number of running scripts on badge.",
-    "message": "number of running scripts"
+    "message": "liczbę uruchomionych skryptów"
   },
   "labelBadgeUnique": {
     "description": "Option to display number of unique running scripts on badge.",
-    "message": "number of unique running scripts"
+    "message": "liczbę unikalnych uruchomionych skryptów"
   },
   "labelBlacklist": {
     "description": "Label for global blacklist settings in security section.",
-    "message": "Blacklist"
+    "message": "Czarna lista"
   },
   "labelContributors": {
     "description": "Label for link to contributors.",
-    "message": "Contributors"
+    "message": "Współtwórcy"
   },
   "labelCurrentLang": {
     "description": "Label of current language.",
-    "message": "Current Language: "
+    "message": "Używany język: "
   },
   "labelCustomCSS": {
     "description": "Label for custom CSS section.",
-    "message": "Custom Style"
+    "message": "Styl niestandardowy"
   },
   "labelDataExport": {
     "description": "Section title of data export.",
-    "message": "Data Export"
+    "message": "Eksport danych"
   },
   "labelDataImport": {
     "description": "Section title of data import.",
-    "message": "Data Import"
+    "message": "Import danych"
   },
   "labelDonate": {
-    "description": "No donations",
-    "message": "no current donation page"
+    "description": "Label of link to donate page.",
+    "message": "Dotacja"
   },
   "labelDownloadURL": {
     "description": "Label of script @downloadURL in custom meta data.",
-    "message": "Download URL:"
+    "message": "Adres URL pobierania:"
   },
   "labelEditValue": {
     "description": "Label shown in the panel to edit a script value.",
-    "message": "Editing script value"
+    "message": "Edytowanie wartości skryptu"
   },
   "labelEditValueAll": {
     "description": "Label shown in the panel to edit the entire script value storage.",
-    "message": "Editing script storage"
+    "message": "Edycja pamięci skryptów"
   },
   "labelEditor": {
     "description": "Label for Editor settings",
-    "message": "Editor"
+    "message": "Edytor"
   },
   "labelExclude": {
     "description": "Label of @exclude rules.",
-    "message": "@exclude rules"
+    "message": "Reguły @exclude"
   },
   "labelExcludeMatch": {
     "description": "Label of @exclude-match rules.",
-    "message": "@exclude-match rules"
+    "message": "Reguły @exclude-match"
   },
   "labelExportScriptData": {
     "description": "Option to export script data along with scripts.",
-    "message": "Export script data"
+    "message": "Eksportuj dane skryptów"
   },
   "labelExposeStatus": {
     "description": "Option in advanced settings.",
-    "message": "Expose installed version on userscript catalog sites: $1"
+    "message": "Pokazuj informację o obecnie zainstalowanej wersji skryptu na jego stronie listingu w katalogach: $1"
   },
   "labelFeedback": {
     "description": "Label of link to feedback page.",
-    "message": "Feedback"
+    "message": "Informacje zwrotne"
   },
   "labelFilterSort": {
     "description": "Label for sort filter.",
-    "message": "Sort by $1"
+    "message": "Sortuj wg $1"
   },
   "labelGeneral": {
     "description": "Label for general settings.",
-    "message": "General"
+    "message": "Ogólne"
   },
   "labelHelpTranslate": {
     "description": "Label for link to localization guide in about tab",
-    "message": "Help with translation"
+    "message": "Pomóż w tłumaczeniu"
   },
   "labelHomepage": {
     "description": "Label for home page in about tab.",
-    "message": "Homepage"
+    "message": "Strona domowa"
   },
   "labelHomepageURL": {
     "description": "Label of script @homepageURL in custom meta data.",
-    "message": "Homepage URL:"
+    "message": "Adres URL strony głównej:"
   },
   "labelImportSettings": {
     "description": "Label for option to import settings from zip file.",
-    "message": "Import settings"
+    "message": "Importuj ustawienia"
   },
   "labelInclude": {
     "description": "Label of @include rules.",
-    "message": "@include rules"
+    "message": "Reguły @include"
   },
   "labelInjectionMode": {
     "description": "Label for default option to inject scripts.",
-    "message": "Default injection mode: "
+    "message": "Domyślny tryb wstrzykiwania: "
   },
   "labelInstall": {
     "description": "Shown in the title of the confirm page while trying to install a script.",
-    "message": "Installing script"
+    "message": "Instalacja skryptu"
   },
   "labelKeepOriginal": {
     "description": "Option to keep the original match or ignore rules.",
-    "message": "Keep original"
+    "message": "Zachowaj oryginalne"
   },
   "labelLastUpdatedAt": {
     "description": "Label shown on last updated time.",
-    "message": "Last updated at $1"
+    "message": "Ostatnio zaktualizowano $1"
   },
   "labelLineNumber": {
     "description": "Label for line number jumper.",
-    "message": "Line no.: "
+    "message": "Linia nr:"
   },
   "labelMatch": {
     "description": "Label of @match rules.",
-    "message": "@match rules"
+    "message": "Reguły @match"
   },
   "labelName": {
     "description": "Label of script name.",
-    "message": "Name:"
+    "message": "Nazwa skryptu:"
   },
   "labelNoName": {
     "description": "Text as the name of a script when no @name is assigned.",
-    "message": "No Name"
+    "message": "Bez nazwy"
   },
   "labelNoSearchScripts": {
     "description": "Message shown when no script is found in search results.",
-    "message": "No script is found."
+    "message": "Nie znaleziono skryptu."
   },
   "labelNotifyThisUpdated": {
     "description": "A per-script option in editor to enable notification when this script is updated. The text follows \"Allow update\" checkbox option so it's like a continuation of the phrase.",
-    "message": ", then notify:"
+    "message": ", następnie powiadom:"
   },
   "labelNotifyUpdates": {
     "description": "Option to show notification when script is updated.",
-    "message": "Notify script updates"
+    "message": "Powiadamiaj o aktualizacjach skryptów"
   },
   "labelNotifyUpdatesGlobal": {
     "description": "Option to prioritize global notification option over script's setting.",
-    "message": "ignore per-script notification (\"settings\" tab in editor)"
+    "message": "Ignoruj ​​powiadomienia dla poszczególnych skryptów (zakładka „ustawienia” w edytorze)"
   },
   "labelPopupSort": {
     "description": "Label in the VM settings tab for script list sort order in popup",
-    "message": "Sort scripts in popup by $1"
+    "message": "Sortuj skrypty w wyskakującym okienku wg  $1 "
   },
   "labelPrivacyPolicy": {
     "description": "Label of link to privacy policy",
-    "message": "Privacy Policy"
+    "message": "Polityka prywatności"
   },
   "labelRelated": {
     "description": "Label of related links.",
-    "message": "Related links: "
+    "message": "Powiązane linki: "
   },
   "labelRemovedAt": {
     "description": "Label for the time when the script is removed.",
-    "message": "Removed at $1"
+    "message": "Usunięto  $1 "
   },
   "labelReplace": {
     "description": "Label for replace input in search box.",
-    "message": "Replace with: "
+    "message": "Zamień na: "
   },
   "labelRunAt": {
     "description": "Label of script @run-at properties in custom meta data.",
-    "message": "Run-At:"
+    "message": "Moment uruchomienia:"
   },
   "labelRunAtDefault": {
     "description": "Shown when custom @run-at is not assigned.",
-    "message": "(Default)"
+    "message": "(domyślny)"
   },
   "labelScriptTemplate": {
     "description": "Label for custom script template.",
-    "message": "Custom Script Template"
+    "message": "Niestandardowy szablon skryptu"
   },
   "labelSearch": {
     "description": "Label for search input in search box.",
-    "message": "Search for: "
+    "message": "Szukaj: "
   },
   "labelSearchScript": {
     "description": "Placeholder for script search box.",
-    "message": "Search scripts..."
+    "message": "Szukaj skryptów..."
   },
   "labelSettings": {
     "description": "Label shown on the top of settings page",
-    "message": "Settings"
+    "message": "Ustawienia"
   },
   "labelSync": {
     "description": "Label for sync options.",
-    "message": "Sync"
+    "message": "Synchronizacja"
   },
   "labelSyncAnonymous": {
     "description": "Label for using anonymous account.",
-    "message": "Use anonymous account"
+    "message": "Użyj konta anonimowego"
   },
   "labelSyncAuthorize": {
     "description": "Label for button to authorize a service.",
-    "message": "Authorize"
+    "message": "Autoryzuj"
   },
   "labelSyncAuthorizing": {
     "description": "Label for button when authorization is in progress.",
-    "message": "Authorizing"
+    "message": "Autoryzacja"
   },
   "labelSyncDisabled": {
     "description": "Label for option to disable sync service.",
-    "message": "None"
+    "message": "Żaden"
   },
   "labelSyncPassword": {
     "description": "Label for input to hold password.",
-    "message": "Password: "
+    "message": "Hasło:"
   },
   "labelSyncRevoke": {
     "description": "Label for button to revoke authorization for a service.",
-    "message": "Revoke"
+    "message": "Unieważnij"
   },
   "labelSyncScriptStatus": {
     "description": "Label for option to sync script status.",
-    "message": "Sync script status"
+    "message": "Synchronizuj stan skryptu"
   },
   "labelSyncServerUrl": {
     "description": "Label for input to hold server URL.",
-    "message": "Server URL: "
+    "message": "Adres serwera:"
   },
   "labelSyncService": {
     "description": "Label for sync service select.",
-    "message": "Sync to"
+    "message": "Synchronizuj z"
   },
   "labelSyncUsername": {
     "description": "Label for input to hold username.",
-    "message": "Username: "
+    "message": "Nazwa użytkownika:"
   },
   "labelUpdateURL": {
     "description": "Label of script @updateURL in custom meta data.",
-    "message": "Update URL:"
+    "message": "Adres URL aktualizacji:"
   },
   "lastSync": {
     "description": "Label for last sync timestamp.",
-    "message": "Last sync at $1"
+    "message": "Ostatnia synchronizacja o $1"
   },
   "learnBlacklist": {
     "description": "Refers to a link to introduce blacklist patterns.",
-    "message": "Learn more about blacklist patterns."
+    "message": "Dowiedz się więcej o formach czarnej listy."
   },
   "learnInjectionMode": {
     "description": "Refers to a link to introduce injection modes.",
-    "message": "Learn more about injection modes."
+    "message": "Dowiedz się więcej o trybach wstrzykiwania."
   },
   "menuDashboard": {
     "description": "Label for menu item to open dashboard.",
-    "message": "Open Dashboard"
+    "message": "Otwórz panel sterowania"
   },
   "menuFindScripts": {
     "description": "Menu item to find scripts for a site.",
-    "message": "Find scripts for this site"
+    "message": "Znajdź skrypty dla tej strony"
   },
   "menuInjectionFailed": {
     "description": "Injection error.",
-    "message": "Could not inject some scripts."
+    "message": "Nie można wstrzyknąć niektórych skryptów."
   },
   "menuInjectionFailedFix": {
     "description": "Injection error fix, shown in case the default mode is \"page\".",
-    "message": "Retry in \"auto\" mode"
+    "message": "Spróbuj ponownie w trybie „auto”"
   },
   "menuMatchedFrameScripts": {
     "description": "Label for menu listing matching scripts in sub-frames.",
-    "message": "Sub-frames only scripts"
+    "message": "Skrypty tylko w ramkach"
   },
   "menuMatchedScripts": {
     "description": "Label for menu listing matched scripts.",
-    "message": "Matched scripts"
+    "message": "Dopasowane skrypty"
   },
   "menuNewScript": {
-    "description": "Menu item to create a new userscript.",
-    "message": "Create a new userscript"
+    "description": "Menu item to create a new script.",
+    "message": "Utwórz nowy skrypt"
   },
   "menuScriptDisabled": {
-    "description": "Menu item showing the status of SpiralViolent, when disabled.",
-    "message": "Scripts disabled"
+    "description": "Menu item showing the status of Violentmonkey, when disabled.",
+    "message": "Skrypty wyłączone"
   },
   "menuScriptEnabled": {
-    "description": "Menu item showing the status of SpiralViolent, when enabled.",
-    "message": "Scripts enabled"
+    "description": "Menu item showing the status of Violentmonkey, when enabled.",
+    "message": "Skrypty włączone"
   },
   "msgCheckingForUpdate": {
     "description": "Message shown when a script is being checked for updates by version numbers.",
-    "message": "Checking for updates..."
+    "message": "Sprawdzanie aktualizacji..."
   },
   "msgErrorFetchingResource": {
-    "description": "Message shown when SpiralViolent fails fetching a resource/require/icon of the script.",
-    "message": "Error fetching resource!"
+    "description": "Message shown when Violentmonkey fails fetching a resource/require/icon of the script.",
+    "message": "Błąd pobierania zasobu!"
   },
   "msgErrorFetchingScript": {
-    "description": "Message shown when SpiralViolent fails fetching a new version of the script.",
-    "message": "Error fetching script!"
+    "description": "Message shown when Violentmonkey fails fetching a new version of the script.",
+    "message": "Błąd przy pobieraniu skryptu!"
   },
   "msgErrorFetchingUpdateInfo": {
-    "description": "Message shown when SpiralViolent fails fetching version data of the script.",
-    "message": "Failed fetching update information."
+    "description": "Message shown when Violentmonkey fails fetching version data of the script.",
+    "message": "Błąd podczas pobierania informacji o aktualizacjach."
   },
   "msgErrorLoadingData": {
     "description": "Message shown on confirm page when the script to be installed cannot be loaded.",
-    "message": "Error loading script data."
+    "message": "Błąd wczytywania skryptu."
   },
   "msgErrorLoadingDependency": {
     "description": "Message shown when not all requirements are loaded successfully.",
-    "message": "Error loading dependencies."
+    "message": "Błąd podczas wczytywania zależności."
   },
   "msgImported": {
     "description": "Message shown after import. There is an argument referring to the count of scripts imported.",
-    "message": "$1 item(s) are imported."
+    "message": "$1 pozycja/e/i zaimportowana/e/ych."
   },
   "msgIncognitoChanges": {
     "description": "Message shown in popup and installation tab when opened in an incognito window.",
-    "message": "Changes you make in the incognito mode also apply to your main profile."
+    "message": "Zmiany, które wprowadzasz w trybie incognito, dotyczą również twojego głównego profilu."
   },
   "msgInstalled": {
     "description": "Message shown when a script is installed.",
-    "message": "Script installed."
+    "message": "Skrypt zainstalowany."
   },
   "msgInvalidScript": {
     "description": "Message shown when script is invalid.",
-    "message": "Invalid script!"
+    "message": "Niepoprawny skrypt!"
   },
   "msgLoadedData": {
     "description": "Message shown in the confirm page when a javascript file to be installed is loaded.",
-    "message": "Script data loaded."
+    "message": "Skrypt wczytany."
   },
   "msgLoadingData": {
     "description": "Message shown on confirm page when the script to be installed is loading.",
-    "message": "Loading script data..."
+    "message": "Wczytywanie skryptu..."
   },
   "msgLoadingDependency": {
     "description": "Message shown on confirm page when the requirements are being downloaded.",
-    "message": "Loading dependencies... ($1/$2)"
+    "message": "Wczytywanie zależności... ($1/$2)"
   },
   "msgNamespaceConflict": {
     "description": "Message shown when namespace of the new script conflicts with an existent one.",
-    "message": "Script namespace conflicts! Please modify @name and @namespace."
+    "message": "Konflikty przestrzeni nazw skryptu! Proszę zmodyfikować @name i @namespace."
   },
   "msgNewVersion": {
     "description": "Message shown when a new version of script is found by @updateURL, but no @downloadURL is provided.",
-    "message": "New version found."
+    "message": "Znaleziono nową wersję."
   },
   "msgNoUpdate": {
     "description": "Message shown when there is no new version of a script.",
-    "message": "No update found."
+    "message": "Nie znaleziono aktualizacji."
   },
   "msgSavedBlacklist": {
     "description": "Message shown when blacklist are saved.",
-    "message": "Blacklist updated."
+    "message": "Czarna lista zaktualizowana"
   },
   "msgSavedCustomCSS": {
     "description": "Message shown when custom CSS is saved.",
-    "message": "Custom style is updated."
+    "message": "Styl niestandardowy jest aktualizowany."
   },
   "msgSavedEditorOptions": {
     "description": "Message shown when editor options are saved.",
-    "message": "Editor options are updated."
+    "message": "Opcje edytora zostały zaktualizowane."
   },
   "msgSavedScriptTemplate": {
     "description": "Message shown when custom script template is saved.",
-    "message": "Custom script template is updated."
+    "message": "Niestandardowy szablon skryptu jest aktualizowany."
   },
   "msgScriptUpdated": {
     "description": "Notification message for script updates.",
-    "message": "Script [$1] is updated!"
+    "message": "Skrypt [$1] jest aktualizowany!"
   },
   "msgSyncError": {
     "description": "Message shown when sync failed.",
-    "message": "Sync error!"
+    "message": "Błąd synchronizacji!"
   },
   "msgSyncInit": {
     "description": "Message shown when sync service is initializing.",
-    "message": "Initializing..."
+    "message": "Inicjowanie..."
   },
   "msgSyncInitError": {
     "description": "Message shown when sync fails in initialization.",
-    "message": "Initializing error!"
+    "message": "Błąd inicjalizacji!"
   },
   "msgSyncReady": {
     "description": "Message shown when sync will start soon.",
-    "message": "Sync will start soon..."
+    "message": "Synchronizacja rozpocznie się wkrótce..."
   },
   "msgSyncing": {
     "description": "Message shown when sync is in progress.",
-    "message": "Sync in progress..."
+    "message": "Trwa synchronizacja..."
   },
   "msgUpdated": {
     "description": "Message shown when a script is updated/reinstalled.",
-    "message": "Script updated."
+    "message": "Skrypt zaktualizowany."
   },
   "msgUpdating": {
     "description": "Message shown when a new version of script is being fetched.",
-    "message": "Updating..."
+    "message": "Aktualizacja..."
   },
   "noValues": {
     "description": "Label shown when there is no value for current script.",
-    "message": "No value is stored"
+    "message": "Żadna wartość nie jest przechowywana"
   },
   "optionEditorWindow": {
     "description": "Label for the option in settings",
-    "message": "Open editor from popup in a new window"
+    "message": "Otwórz edytor z wyskakującego okienka w nowym oknie"
   },
   "optionEditorWindowHint": {
     "description": "Tooltip for optionEditorWindow in case the browser doesn't support onBoundsChanged",
-    "message": "Editor window position will be remembered only on resizing or saving"
+    "message": "Pozycja okna edytora zostanie zapamiętana tylko podczas zmiany rozmiaru lub zapisywania"
   },
   "optionEditorWindowSimple": {
     "description": "Label for the editor window type",
-    "message": "Hide omnibox"
+    "message": "Ukryj omnibox"
   },
   "optionPopupEnabledFirst": {
     "description": "Option to show enabled scripts first in popup.",
-    "message": "Enabled first"
+    "message": "Najpierw włączone"
   },
   "optionPopupHideDisabled": {
     "description": "Option to hide disabled scripts in popup.",
-    "message": "Hide disabled"
+    "message": "Ukryj wyłączone"
   },
   "optionShowEnabledFirst": {
     "description": "Option to show enabled scripts first in alphabetical order.",
-    "message": "Show enabled scripts first"
+    "message": "Pokazuj najpierw włączone skrypty"
   },
   "searchCaseSensitive": {
     "description": "Option to perform a case-sensitive search",
-    "message": "Case sensitive"
+    "message": "Rozróżnianie wielkości liter"
   },
   "searchUseRegex": {
     "description": "Option to perform a regular expression search",
-    "message": "Use Regex"
+    "message": "Skorzystaj z wyrażeń regularnych"
   },
   "sideMenuAbout": {
     "description": "Side menu: About",
-    "message": "About"
+    "message": "O rozszerzeniu"
   },
   "sideMenuInstalled": {
     "description": "Side menu: Installed scripts",
-    "message": "Installed scripts"
+    "message": "Zainstalowane skrypty"
   },
   "sideMenuSettings": {
     "description": "Side menu: Settings",
-    "message": "Settings"
+    "message": "Ustawienia"
   },
   "titleScriptUpdated": {
     "description": "Notification title for script updates.",
-    "message": "Update"
+    "message": "Aktualizacja"
   },
   "titleSearchHint": {
     "description": "Hover title for search icon in dashboard.",
-    "message": "* <Enter> key adds the text to autocomplete history\n* RegExp syntax is supported: /re/ and /re/flags"
+    "message": "* Klawisz <Enter> dodaje tekst do historii auto-uzupełnienia\n* Obsługiwana jest składnia RegExp: /re/ i /re/flags"
   },
   "valueLabelKey": {
     "description": "Label for key of a script value.",
-    "message": "Key (string)"
+    "message": "Klucz (string)"
   },
   "valueLabelValue": {
     "description": "Label for value of a script value.",
-    "message": "Value (serialized as JSON)"
+    "message": "Wartość (serializowana jako JSON)"
   },
   "valueLabelValueAll": {
     "description": "Label for input of entire script value storage.",
-    "message": "All values (serialized as JSON)"
+    "message": "Wszystkie wartości (serializowane jako JSON)"
   },
   "visitWebsite": {
-    "description": "Label for link to open SpiralViolent website.",
-    "message": "Visit Website"
+    "description": "Label for link to open Violentmonkey website.",
+    "message": "Odwiedź stronę internetową rozszerzenia"
   }
 }
